@@ -2,6 +2,9 @@ Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+These are some of my projects since I got into graphics design.<br/>
+							worked mostly with Adobe Creative Suite, HTML5, Wordpress
+
 
 This is Prologue, a simple, single page responsive site template. It features a
 clean, minimalistic design and a sticky sidebar with navigation-linked scrolling.
